@@ -1,6 +1,13 @@
 Hello world from branch testing pull request
 <<<<<<< HEAD
+<<<<<<< HEAD
 Testing merging::: commit from local server
 =======
 Testing merging::: commit from remote server
 >>>>>>> 5ce3b204763af2935a347b085f314eeff93651a9
+=======
+Testing merging::: commit from local
+=======
+Testing merging::: commit from remote
+>>>>>>> c75f94f78edf0ae4f49966ba3a94c24ebe0ab6f7
+>>>>>>> e92a5a7161f702055272a1b5e650638510b4e728
