@@ -1,2 +1,2 @@
 Hello world from branch testing pull request
-Testing merging::: commit from local
+Testing merging::: commit from remote
